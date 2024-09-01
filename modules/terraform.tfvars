@@ -1,0 +1,5 @@
+region1 = "us-east-1"
+ami-1 = "ami-0e86e20dae9224db8"
+instance-type = "t2.micro"
+key-pair = "docker"
+server-name = "ubun-server"
